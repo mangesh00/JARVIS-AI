@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you, Mangesh. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, a highly advanced AI chatbot designed to provide accurate and helpful responses to your queries."
+    },
+    {
+        "role": "user",
+        "content": "who is Mangesh Kable?"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on my search results, Mangesh Kable is a student, web developer, and cybersecurity enthusiast who is currently studying at G.H. Raisoni Societys, College of Engineering and Management, Pune. He has skills in programming languages such as Java, HTML, CSS, and JavaScript, and is also interested in Database and Internet of Things (IoT)."
+    },
+    {
+        "role": "user",
+        "content": "what is a stock price of apple."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest available data, the stock price of Apple Inc. (AAPL) is $245.55, with a day's open of $245.95, and an intraday high of $248.69 and an intraday low of $245.22."
+    }
+]

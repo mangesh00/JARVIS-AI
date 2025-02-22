@@ -35,7 +35,7 @@ try:
         messages = load(f) # Load existing messages from the chat log.
 except FileNotFoundError:
     # If the file doesn't exist, create an empty JSON file to store chat logs.
-    with open(r"Data\ChatLog.json", "r") as f:
+    with open(r"Data\ChatLog.json", "w") as f:
         dump([], f)
     
 # Function to get real-time date and time information.
